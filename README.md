@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular Homes App
 - Install Angular if you don't have it installed
 
@@ -18,3 +19,6 @@
 - Run the application 
 
   `ng serve`
+=======
+# angular-homes-app-custom
+>>>>>>> 2de159e45a645e316ca6135cf707c52c60df89f0
